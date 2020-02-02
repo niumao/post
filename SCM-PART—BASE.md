@@ -1,0 +1,7 @@
+---
+title: SCM-PART—BASE
+date: 2018-09-14 07:16:46
+tags:
+---
+MCS-51 SYSTEM
+内部三大资源:1.FLASH2.RAM3.SFR
